@@ -1,0 +1,12 @@
+nav {
+    background-color:rgb(10, 10, 70);
+    height: 80px;
+}
+
+.nav-link {
+    color: white;
+    line-height:64px;
+    text-align: center;
+    text-decoration: none;
+    align-items: center;
+}
